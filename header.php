@@ -21,7 +21,7 @@
 	<link rel="stylesheet" media="all" href="https://thefifthworld.s3.us-east-2.stackpathstorage.com/design/v/1/0/4/style.css" crossorigin="" />
 </head>
 
-<body <?php body_class(); ?>>
+<body <?php body_class( 'thefifthworld' ); ?>>
 <?php wp_body_open(); ?>
 <div id="page" class="site">
 	<a class="skip-link screen-reader-text" href="#primary"><?php esc_html_e( 'Skip to content', 'thefifthworld' ); ?></a>
