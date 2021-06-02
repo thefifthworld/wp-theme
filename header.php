@@ -18,6 +18,7 @@
 	<link rel="profile" href="https://gmpg.org/xfn/11">
 
 	<?php wp_head(); ?>
+	<link rel="stylesheet" media="all" href="https://thefifthworld.s3.us-east-2.stackpathstorage.com/design/v/1/0/4/style.css" crossorigin="" />
 </head>
 
 <body <?php body_class(); ?>>

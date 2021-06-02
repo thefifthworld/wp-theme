@@ -30,5 +30,6 @@
 
 <?php wp_footer(); ?>
 
+<script src="https://thefifthworld.s3.us-east-2.stackpathstorage.com/design/v/1/0/4/bundle.js"></script>
 </body>
 </html>
